@@ -1,7 +1,7 @@
 
-                                                  Izmir University of Economics
-                                                          2018-2019 Fall
-                                            SE 360 Project Report İNAN EVİN - ALPER ÖZER
+                                           Izmir University of Economics
+                                                 2018-2019 Fall
+                                     SE 360 Project Report İNAN EVİN - ALPER ÖZER
 The Course Analyzer at it’s first stages, functions as a management application for university courses. It provides a basic user interface where the end user is able to register and edit number of courses, along with their syllabus data and exams. Course Analyzer also provides a number of tools to observe the result of attendance and exam data about a particular course. Some of the significant functions of Course Analyzer is given below.
 - Provides interfaces for adding, removing, duplicating courses, along with their relative data. These data includes course and section information.
 - Provides interfaces for editing the syllabus of a given course. The user is able to determine the start and end dates of the syllabus, that will automatically be converted into weeks. These weeks are editable by the user in the means of selecting the corresponding learning outcomes and related topics.
